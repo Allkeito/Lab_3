@@ -1,0 +1,9 @@
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\bin\Debug\MyTimerLibrary.dll
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\bin\Debug\MyTimerLibrary.pdb
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\obj\Debug\MyTimerLibrary.csproj.AssemblyReference.cache
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\obj\Debug\MyTimerLibrary.UserControlTimer.resources
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\obj\Debug\MyTimerLibrary.csproj.GenerateResource.cache
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\obj\Debug\MyTimerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\obj\Debug\MyTimerLibrary.dll
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\obj\Debug\MyTimerLibrary.pdb
+C:\Users\Eritick\source\repos\MyTimerLibrary\MyTimerLibrary\obj\Debug\MyTimerLibrary.UserControl1.resources
